@@ -1,6 +1,6 @@
 # testeVideo
 ## Quem sou eu? ##
-Valéria Ximenes, acadêmica do Curso de Sistemas para Interner no Instituto Federal do Tocantins-IFTO
+Valéria Ximenes, acadêmica do Curso de Sistemas para Internet no Instituto Federal do Tocantins-IFTO
 ## Meus Hobbies ##
   Ouvir música, caminhadas
 ## Meus Projetos ##
